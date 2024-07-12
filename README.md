@@ -1,6 +1,4 @@
 # Huffman-Coding-Compression-Tool
-
-*Project completed 2/8. Backed up to GitHub 3/26.*
 # About
 
 This project contains programs used for compressing and decompressing text files utilizing Huffman Trees.
